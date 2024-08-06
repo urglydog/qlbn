@@ -1,5 +1,6 @@
 package gui;
-// git 6/8/2024
+// git 6/8/2024 từ git 2
+
 import ConnectDB.ConnectionDB;
 import com.sun.jdi.connect.spi.Connection;
 import src.Enitty.Nuoc;
